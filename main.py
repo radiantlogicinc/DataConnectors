@@ -8,4 +8,4 @@ def add(a: float, b: float) -> float:
     Returns:
         float: The sum of the two numbers.
     """
-    pass
+    raise NotImplementedError("add function not implemented")
